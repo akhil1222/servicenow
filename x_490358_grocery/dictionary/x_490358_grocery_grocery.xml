@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Grocery" max_length="40" name="x_490358_grocery_grocery" type="collection">
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element display="true" label="price" max_length="40" name="price" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Payment type" max_length="40" name="u_choice_1" type="string">
+            <choice>
+                <element inactive_on_update="false" label="COD" sequence="0" value="cod"/>
+                <element inactive_on_update="false" label="UPI" sequence="1" value="upi"/>
+                <element inactive_on_update="false" label="Cards" sequence="2" value="cards"/>
+            </choice>
+        </element>
+    </element>
+</database>
