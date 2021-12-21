@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="state" table="x_548181_certifi_0_cer" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <name>x_548181_certifi_0_cer</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-21 10:59:39</sys_created_on>
+            <sys_id>8b7179bd2fa00110372255f62799b6a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>state</sys_name>
+            <sys_package display_value="Certification Management" source="x_548181_certifi_0">3ca4264d2f800110372255f62799b6b5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Certification Management">3ca4264d2f800110372255f62799b6b5</sys_scope>
+            <sys_update_name>sys_choice_x_548181_certifi_0_cer_state</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-21 10:59:39</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

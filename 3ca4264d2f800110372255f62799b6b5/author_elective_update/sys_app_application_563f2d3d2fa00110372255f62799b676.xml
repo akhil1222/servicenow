@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>cer</name>
+        <order>100</order>
+        <roles>x_548181_certifi_0.cer_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-21 10:49:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>563f2d3d2fa00110372255f62799b676</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cer</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Certification Management" source="x_548181_certifi_0">3ca4264d2f800110372255f62799b6b5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Certification Management">3ca4264d2f800110372255f62799b6b5</sys_scope>
+        <sys_update_name>sys_app_application_563f2d3d2fa00110372255f62799b676</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-21 10:49:46</sys_updated_on>
+        <title>cer</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Certification Management">3ca4264d2f800110372255f62799b6b5</application>
+        <file_path/>
+        <instance_id>9f94da47dbe204d02f68c59705961923</instance_id>
+        <instance_name>dev98230</instance_name>
+        <name>sys_app_application_563f2d3d2fa00110372255f62799b676</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name>cer</name><order>100</order><roles>x_548181_certifi_0.cer_user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-12-21 10:49:46</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>563f2d3d2fa00110372255f62799b676</sys_id><sys_mod_count>0</sys_mod_count><sys_name>cer</sys_name><sys_overrides/><sys_package display_value="Certification Management" source="x_548181_certifi_0">3ca4264d2f800110372255f62799b6b5</sys_package><sys_policy/><sys_scope display_value="Certification Management">3ca4264d2f800110372255f62799b6b5</sys_scope><sys_update_name>sys_app_application_563f2d3d2fa00110372255f62799b676</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-12-21 10:49:46</sys_updated_on><title>cer</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>1161847983</payload_hash>
+        <record_name>cer</record_name>
+        <reverted_from/>
+        <source>70a4264d2f800110372255f62799b6b8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-21 10:49:46</sys_created_on>
+        <sys_id>9e3f2d3d2fa00110372255f62799b685</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17ddc9c8b590000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-21 10:49:46</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>d63f2d3daea0011051ce5fe65b503485</update_guid>
+        <update_guid_history>d63f2d3daea0011051ce5fe65b503485:1161847983</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="cer">db9467f12f280110372255f62799b613</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-21 19:22:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>3b673d5742b9442eb43f75b54b2830d1</sys_id>
+        <sys_metadata>563f2d3d2fa00110372255f62799b676</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cer</sys_name>
+        <sys_package display_value="Certification Management" source="x_548181_certifi_0">3ca4264d2f800110372255f62799b6b5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Certification Management">3ca4264d2f800110372255f62799b6b5</sys_scope>
+        <sys_scope_delete display_value="">6ce2e4d2df1347f89f74d614fb38ed10</sys_scope_delete>
+        <sys_update_name>sys_app_application_563f2d3d2fa00110372255f62799b676</sys_update_name>
+        <sys_update_version display_value="sys_app_application_563f2d3d2fa00110372255f62799b676">9e3f2d3d2fa00110372255f62799b685</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-21 19:22:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
